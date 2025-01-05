@@ -33,7 +33,7 @@ Make sure you have the following installed before running the script:
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/yourusername/tiktok-profile-downloader.git  
+   git clone https://github.com/Dinukamalith/TikTok-Profile-Video-Downloader.git
    cd tiktok-profile-downloader  
    ```  
 
